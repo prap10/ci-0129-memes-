@@ -1,0 +1,83 @@
+id,fecha,genero,edad,estado_civil,ubicacion,orientacion_politica,videojuegos,series_tv,sexo,animales,religion,otros,politica,clasicos,educacion,musica
+1,23/11/2019 22:11:25,Hombre,22,Solter@,Pueblo,No tengo,0,0,0,1,1,0,0,0,0,0
+2,23/11/2019 22:12:00,Mujer,23,Solter@,Pueblo,Centro,1,0,0,0,1,0,0,0,0,0
+3,23/11/2019 22:13:22,Mujer,21,Solter@,Ciudad,Derecha,0,0,1,0,0,0,1,0,1,0
+4,23/11/2019 22:14:53,Hombre,23,Solter@,Pueblo,Centro,1,1,1,1,1,1,1,0,0,0
+5,23/11/2019 22:15:55,Hombre,23,Solter@,Pueblo,Izquierda,0,1,1,0,0,1,1,0,0,0
+6,23/11/2019 22:21:30,Hombre,23,Solter@,Ciudad,Derecha,1,1,1,1,1,1,1,1,1,1
+7,23/11/2019 22:21:50,Hombre,23,Solter@,Pueblo,Izquierda,0,0,0,0,1,0,0,1,0,0
+8,23/11/2019 22:32:13,Mujer,21,Solter@,Ciudad,Centro,0,0,0,0,0,1,0,0,0,0
+9,23/11/2019 22:36:43,Hombre,20,Unión Libre,Pueblo,Derecha,0,0,0,0,0,1,0,0,0,0
+10,23/11/2019 23:11:50,Mujer,24,Solter@,Pueblo,Derecha,0,0,0,0,0,0,0,0,1,0
+11,23/11/2019 23:22:34,Hombre,24,Unión Libre,Ciudad,Centro,0,0,1,0,1,0,1,0,0,0
+12,24/11/2019 2:45:07,Hombre,21,Solter@,Ciudad,Izquierda,0,0,0,0,0,0,0,0,1,0
+13,24/11/2019 2:45:52,Hombre,21,Solter@,Ciudad,Izquierda,0,0,0,0,0,0,0,0,1,0
+14,24/11/2019 9:01:48,Hombre,23,Solter@,Pueblo,Centro,0,1,1,0,1,0,0,0,0,0
+15,24/11/2019 9:11:21,Hombre,23,Solter@,Pueblo,Izquierda,1,1,0,0,0,0,1,0,0,0
+16,24/11/2019 16:23:43,Hombre,23,Solter@,Pueblo,Derecha,1,0,0,0,0,0,0,0,1,0
+17,24/11/2019 18:57:19,Hombre,38,Casad@,Pueblo,Centro,0,0,1,1,0,1,0,1,0,0
+18,24/11/2019 19:14:21,Mujer,39,Solter@,Ciudad,Centro,0,0,0,1,0,0,0,0,0,0
+19,24/11/2019 19:15:00,Mujer,43,Solter@,Pueblo,Centro,0,0,0,0,0,0,1,0,0,0
+20,24/11/2019 19:24:02,Mujer,34,Solter@,Ciudad,Centro,0,0,0,0,0,1,0,0,1,0
+21,24/11/2019 20:16:22,Mujer,23,Solter@,Ciudad,Centro,0,0,0,0,0,1,0,0,0,0
+22,24/11/2019 22:33:40,Mujer,45,Solter@,Ciudad,Ninguna,0,0,0,0,0,0,0,0,1,0
+23,24/11/2019 22:38:46,Mujer,59,Casad@,Ciudad,Derecha,0,0,0,0,0,0,0,0,0,0
+24,25/11/2019 9:29:22,Mujer,22,Solter@,Ciudad,Centro,0,0,0,0,0,1,1,0,1,0
+25,25/11/2019 9:33:36,Hombre,22,Solter@,Ciudad,Centro,0,1,0,1,0,0,0,0,1,0
+26,25/11/2019 9:33:39,Mujer,50,Casad@,Ciudad,Centro,0,1,0,0,0,0,0,0,0,0
+27,25/11/2019 9:33:46,Mujer,22,Solter@,Pueblo,Centro,0,1,1,0,1,1,1,0,1,1
+28,25/11/2019 9:34:14,Mujer,21,Solter@,Ciudad,Izquierda,0,1,0,0,0,0,1,0,0,0
+29,25/11/2019 9:34:24,Mujer,19,Solter@,Ciudad,Centro,1,1,0,0,0,0,0,1,1,0
+30,25/11/2019 9:34:50,Mujer,24,Solter@,Pueblo,Izquierda,0,0,1,0,0,0,1,0,0,0
+31,25/11/2019 9:34:58,Mujer,21,Solter@,Pueblo,Derecha,0,0,0,1,0,1,1,0,1,0
+32,25/11/2019 9:36:15,Hombre,32,Solter@,Ciudad,Centro-izquierda,0,0,1,1,1,0,1,0,1,0
+33,25/11/2019 9:36:49,Mujer,23,Solter@,Ciudad,Centro,0,0,1,0,0,1,0,1,1,1
+34,25/11/2019 9:37:54,Mujer,28,Solter@,Ciudad,Centro,0,1,0,0,0,0,0,0,0,1
+35,25/11/2019 9:39:24,Mujer,23,Solter@,Ciudad,Centro,0,0,1,1,0,1,1,1,1,0
+36,25/11/2019 9:40:00,Mujer,14,Solter@,Pueblo,Centro,0,0,0,0,0,0,1,0,0,0
+37,25/11/2019 9:41:41,Mujer,22,Solter@,Pueblo,Centro,0,0,0,0,1,1,0,1,1,0
+38,25/11/2019 9:46:34,Hombre,25,Solter@,Ciudad,Centro,1,1,0,0,0,1,0,1,1,0
+39,25/11/2019 9:47:16,Mujer,22,Unión Libre,Ciudad,Centro,1,1,0,0,1,1,1,0,1,0
+40,25/11/2019 9:48:45,Mujer,23,Solter@,Pueblo,Derecha,0,1,0,0,0,0,0,0,1,0
+41,25/11/2019 9:49:07,Mujer,18,Solter@,Pueblo,Ninguna,0,1,0,0,0,1,0,1,1,0
+42,25/11/2019 9:49:33,Mujer,26,Solter@,Ciudad,Izquierda,0,1,1,0,1,0,1,0,0,0
+43,25/11/2019 9:49:34,Hombre,33,Casad@,Ciudad,Centro,0,0,0,0,0,0,1,0,0,0
+44,25/11/2019 9:50:30,Mujer,22,Solter@,Ciudad,Centro,0,1,0,0,0,1,0,0,1,0
+45,25/11/2019 9:50:34,Mujer,19,Solter@,Pueblo,Derecha,0,1,0,1,0,1,1,0,1,0
+46,25/11/2019 9:50:48,Mujer,18,Solter@,Ciudad,Centro,0,0,0,0,0,1,1,0,1,0
+47,25/11/2019 9:52:00,Hombre,21,Unión Libre,Ciudad,Centro,1,0,1,0,1,0,0,1,0,0
+48,25/11/2019 9:52:12,Mujer,24,Solter@,Ciudad,Centro,0,0,0,0,0,1,0,0,0,0
+49,25/11/2019 9:52:14,Mujer,21,Solter@,Ciudad,Centro,0,0,0,0,0,0,0,0,1,0
+50,25/11/2019 9:52:54,Mujer,25,Solter@,Ciudad,Nose,0,0,0,0,0,0,1,0,0,0
+51,25/11/2019 9:55:56,Mujer,36,Solter@,Ciudad,Centro,0,1,0,1,0,0,1,1,0,0
+52,25/11/2019 9:57:41,Mujer,20,Solter@,Ciudad,Centro,0,0,0,0,0,0,0,0,1,0
+53,25/11/2019 9:59:04,Mujer,28,Solter@,Ciudad,Centro,0,1,0,0,1,0,1,0,1,0
+54,25/11/2019 9:59:39,Mujer,35,Casad@,Ciudad,Centro,0,0,0,0,0,0,0,0,1,0
+55,25/11/2019 10:01:38,Mujer,21,Solter@,Ciudad,Centro,0,0,0,1,0,1,0,0,1,0
+56,25/11/2019 10:02:52,Mujer,22,Solter@,Ciudad,Centro,0,1,0,1,0,1,0,1,1,1
+57,25/11/2019 10:08:25,Mujer,22,Solter@,Ciudad,Derecha,0,1,1,0,0,0,0,0,0,0
+58,25/11/2019 10:19:46,Mujer,28,Solter@,Ciudad,Centro,0,1,0,0,0,0,0,0,0,0
+59,25/11/2019 10:32:13,Mujer,20,Solter@,Ciudad,Derecha,0,1,1,0,0,0,1,0,1,0
+60,25/11/2019 10:56:02,Mujer,20,Solter@,Ciudad,Centro,0,1,0,1,0,0,0,1,1,0
+61,25/11/2019 11:06:27,Mujer,28,Unión Libre,Ciudad,Izquierda,0,0,1,0,1,0,1,1,0,1
+62,25/11/2019 11:20:23,Mujer,22,Solter@,Ciudad,Centro,0,0,1,1,0,1,0,0,1,0
+63,25/11/2019 13:32:57,Mujer,21,Solter@,Ciudad,Anarquista,0,0,1,0,0,0,0,0,1,0
+64,25/11/2019 13:59:42,Mujer,20,Solter@,Ciudad,Centro,0,1,0,0,0,0,1,0,1,0
+65,25/11/2019 19:14:59,Hombre,55,Casad@,Pueblo,Derecha,0,0,1,1,0,0,0,0,0,0
+66,25/11/2019 19:21:14,Hombre,28,Casad@,Ciudad,Scientologist,0,0,0,0,1,1,1,0,1,0
+67,25/11/2019 19:26:25,Mujer,20,Solter@,Pueblo,Izquierda,1,1,0,0,0,1,0,0,0,0
+68,25/11/2019 19:48:57,Mujer,17,Solter@,Ciudad,Derecha,0,0,0,0,0,1,0,0,0,0
+69,25/11/2019 20:55:26,Hombre,23,Solter@,Ciudad,Centro,0,0,0,0,0,0,0,0,1,0
+70,25/11/2019 21:26:23,Mujer,20,Solter@,Ciudad,Centro,1,1,0,1,1,1,1,1,1,1
+71,26/11/2019 6:50:40,Mujer,34,Casad@,Ciudad,Derecha,0,1,0,1,0,0,0,0,1,0
+72,26/11/2019 15:43:54,Mujer,25,Solter@,Ciudad,Centro,0,0,0,0,0,1,0,0,0,0
+73,29/11/2019 16:29:20,Hombre,25,Solter@,Ciudad,Derecha,0,0,0,0,0,0,1,1,1,0
+74,29/11/2019 16:30:50,Hombre,49,Casad@,Ciudad,Centro,0,0,0,0,0,0,0,0,0,0
+75,29/11/2019 16:32:13,Hombre,28,Solter@,Pueblo,Centro,0,0,0,1,0,0,0,0,0,0
+76,29/11/2019 16:32:35,Prefiero no decirlo,27,Solter@,Ciudad,Izquierda,0,0,0,0,0,0,0,0,0,0
+77,29/11/2019 16:32:48,Mujer,30,Casad@,Ciudad,Centro,0,1,0,0,0,0,0,0,0,0
+78,29/11/2019 16:35:27,Hombre,28,Unión Libre,Ciudad,Centro,0,0,1,0,0,0,1,0,0,0
+79,29/11/2019 16:37:06,Hombre,28,Solter@,Ciudad,Centro,1,0,0,1,0,0,1,0,0,0
+80,29/11/2019 16:37:36,Hombre,28,Solter@,Pueblo,Centro,1,0,0,1,0,1,1,0,0,0
+81,29/11/2019 16:46:46,Hombre,25,Solter@,Ciudad,Izquierda,0,0,1,0,1,0,0,0,0,0
+82,29/11/2019 19:21:53,Hombre,24,Solter@,Ciudad,Derecha,1,1,0,0,0,0,1,0,0,1
